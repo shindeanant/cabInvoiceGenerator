@@ -27,11 +27,11 @@ public class InvoiceSummary {
 	}
 
 	/*
-	 * to compare objects we should have hashcode method else they
+	 *  to compare objects we should have hashcode method else they
 	 */
-
+	
 	/*
-	 * create a two different instances so creating equals() and hashcode()
+	 *  create a two different instances so creating equals() and hashcode()
 	 */
 	@Override
 	public boolean equals(Object o) {
